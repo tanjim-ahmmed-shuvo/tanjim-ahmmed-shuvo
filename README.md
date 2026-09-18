@@ -26,10 +26,6 @@
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,postgres,supabase,cloudflare,docker,linux,bash,arduino,raspberrypi&theme=dark" alt="Technical Stack">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanjim-ahmmed-shuvo&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</p>
-
 ---
 
 ### // Sovereign On-Device AI Architecture (Flagship R&D)
@@ -78,22 +74,22 @@ flowchart TD
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=A9B1D6&bg_color=1A1B26">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tanjim-ahmmed-shuvo&theme=tokyonight_light&hide_border=true&count_private=true&show_icons=true&title_color=3B82F6&icon_color=3B82F6&text_color=343B58&bg_color=F7F7F7">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=A9B1D6&bg_color=1A1B26" alt="GitHub Overview Telemetry">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=A9B1D6&bg_color=1A1B26">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=tanjim-ahmmed-shuvo&theme=tokyonight_light&hide_border=true&count_private=true&show_icons=true&title_color=3B82F6&icon_color=3B82F6&text_color=343B58&bg_color=F7F7F7">
+    <img src="https://github-stats-extended.vercel.app/api?username=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&title_color=7AA2F7&icon_color=7AA2F7&text_color=A9B1D6&bg_color=1A1B26" alt="GitHub Overview Telemetry">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&layout=compact&title_color=7AA2F7&text_color=A9B1D6&bg_color=1A1B26">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjim-ahmmed-shuvo&theme=tokyonight_light&hide_border=true&layout=compact&title_color=3B82F6&text_color=343B58&bg_color=F7F7F7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&layout=compact&title_color=7AA2F7&text_color=A9B1D6&bg_color=1A1B26" alt="Top Languages Telemetry">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&layout=compact&title_color=7AA2F7&text_color=A9B1D6&bg_color=1A1B26">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tanjim-ahmmed-shuvo&theme=tokyonight_light&hide_border=true&layout=compact&title_color=3B82F6&text_color=343B58&bg_color=F7F7F7">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&layout=compact&title_color=7AA2F7&text_color=A9B1D6&bg_color=1A1B26" alt="Top Languages Telemetry">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideNums=A9B1D6&sideLabels=A9B1D6&dates=A9B1D6&background=1A1B26">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tanjim-ahmmed-shuvo&theme=tokyonight_light&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=343B58&sideLabels=343B58&dates=343B58&background=F7F7F7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideNums=A9B1D6&sideLabels=A9B1D6&dates=A9B1D6&background=1A1B26" alt="GitHub Activity Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideNums=A9B1D6&sideLabels=A9B1D6&dates=A9B1D6&background=1A1B26">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=tanjim-ahmmed-shuvo&theme=tokyonight_light&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=343B58&sideLabels=343B58&dates=343B58&background=F7F7F7">
+    <img src="https://streak-stats.demolab.com/?user=tanjim-ahmmed-shuvo&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideNums=A9B1D6&sideLabels=A9B1D6&dates=A9B1D6&background=1A1B26" alt="GitHub Activity Streak">
   </picture>
 </p>
 
