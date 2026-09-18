@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://tanjim.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-tanjim.dev-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1B26" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/PORTFOLIO-tanjim.dev-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Portfolio Badge">
   </a>
   <a href="https://digifixbd.com">
-    <img src="https://img.shields.io/badge/ENTERPRISE-digifixbd.com-7AA2F7?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1A1B26" alt="Enterprise Badge">
+    <img src="https://img.shields.io/badge/ENTERPRISE-digifixbd.com-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Enterprise Badge">
   </a>
   <a href="mailto:tanjim@digifixbd.com">
     <img src="https://img.shields.io/badge/DIRECT_CONTACT-tanjim%40digifixbd.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B26" alt="Contact Badge">
