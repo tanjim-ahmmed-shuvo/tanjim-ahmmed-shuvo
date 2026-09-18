@@ -22,75 +22,19 @@
   </a>
 </p>
 
----
-
-### // 01. Enterprise Ecosystem Architecture
-
-| Dimension | COROLAB (Global Flagship Venture) | DigifixBD (Operating Infrastructure) |
-| :--- | :--- | :--- |
-| **Role & Mandate** | Deep-Tech R&D & Sovereign Innovation Lab | Founder & CEO / Operational Backbone |
-| **Core Focus** | Edge Compute, Sovereign Local AI & Autonomous Systems | Enterprise Modernization, Defense & Cloud Infrastructure |
-| **Execution Domain** | Offline LLM runtimes, OS-level hooks, zero-cloud agents | Scaled digital infrastructure & autonomous workflow automation |
-| **Impact Metric** | Autonomous IP generation & next-gen deep tech | 1,000+ client systems deployed, hardened, and maintained |
-
----
-
-### // 02. Systems Architecture & Technical Matrix
-
-<details>
-<summary><b>Expand Full System Architecture & Technical Matrix</b></summary>
-
-```text
-===================================================================================================
-                               SYSTEM ARCHITECTURE & CAPABILITY HIERARCHY
-===================================================================================================
-[ LAYER 01 : APPLICATION SECURITY & NETWORK FORENSICS ]
-  ├── Web Application Pentesting : Burp Suite Pro, Manual SQLi, Logic Bypass Audits
-  ├── Network Inspection        : Wireshark Deep Packet Forensics, MITM Defense, TLS 1.3 Hardening
-  └── Perimeter Defense         : HTTP 429 Adaptive Rate Limiting, OWASP Top 10 Active Mitigation
-
-[ LAYER 02 : LOW-LEVEL OS INTERNALS & CROSS-PLATFORM CONTROL ]
-  ├── Kernel & Distros          : Arch Linux, Kali Linux, Parrot OS, Ubuntu LTS, Custom Linux Daemons
-  ├── Android Low-Level Runtime : Bootloader Unlock, Bootloop Debug, Zygisk/Magisk Root, Vendor Partitions
-  └── Hardware Platform Control : macOS, iOS, Windows, Android System Architectures, Non-Standard Dual-Boot
-
-[ LAYER 03 : COMPUTER ARCHITECTURE & HARDWARE RUNTIME ]
-  ├── Execution Pipeline        : BIOS/UEFI POST Sequence Analysis, Low-Level Firmware Hooks
-  ├── Bus Hierarchy             : RAM / ROM Data Bus Timing, Bus Interconnect Constraints
-  └── Compute Engines           : GPU Parallel Mechanics, CUDA Kernels, Local LLM Quantization
-
-[ LAYER 04 : ZERO-TRUST CLOUD & DISTRIBUTED INFRASTRUCTURE ]
-  ├── Cloudflare Fabric         : Zero-Trust Tunnels (No Exposed IP/Ports), Edge Workers, R2 Buckets
-  ├── Ingress & Routing         : Reverse Proxy Optimization, Edge Caching, Dynamic Load Termination
-  └── Runtime Orchestration     : Microservices Decoupling, WebSockets, Linux systemd Watchdogs
-
-[ LAYER 05 : EMBEDDED SYSTEMS & HARDWARE AUTOMATION ]
-  ├── Silicon Targets           : ESP32, ESP8266, ARM Cortex (Raspberry Pi), ATmega (Arduino)
-  └── Physical Automation       : High-Voltage Relay Systems, Sensor Mesh, Edge-to-Cloud Relays
-
-[ LAYER 06 : AUTONOMOUS ENTERPRISE & COMMUNICATION SYSTEMS ]
-  ├── Core Stack                : TypeScript, React, Node.js, Supabase (PostgreSQL), Tailwind CSS
-  ├── Workflow Orchestration    : Self-Hosted n8n Clusters, Event-Driven Webhooks, Distributed Workers
-  ├── Notification Automation   : WhatsApp Business API, Transactional SMS Gateways, Automated Customer Reminders
-  └── Enterprise Architectures  : Multi-Role Real-Time Portals (e.g. One Sixty Five By One 5-Panel OS)
-===================================================================================================
-```
-
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,postgres,supabase,cloudflare,docker,linux,bash,arduino,raspberrypi&theme=dark" alt="Technical Stack">
+</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,postgres,supabase,cloudflare,docker,linux,bash,arduino,raspberrypi&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,postgres,supabase,cloudflare,docker,linux,bash,arduino,raspberrypi&theme=light">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,postgres,supabase,cloudflare,docker,linux,bash,arduino,raspberrypi&theme=dark" alt="Technical Stack">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=tanjim-ahmmed-shuvo&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
 
-### // 03. Flagship R&D: Sovereign On-Device AI Assistant
+### // Sovereign On-Device AI Architecture (Flagship R&D)
 
-An offline-first, private AI execution runtime built directly on Android internals to dismantle digital friction and enforce user autonomy without external network egress.
+An offline-first, private AI execution runtime built directly on Android internals to eliminate cloud latency and enforce user autonomy without external network egress.
 
 ```mermaid
 flowchart TD
@@ -130,19 +74,7 @@ flowchart TD
 
 ---
 
-### // 04. Production Implementations
-
-| System / Platform | Architecture Highlights | Scale / Impact |
-| :--- | :--- | :--- |
-| **DigifixBD Operating Core** | Zero-Trust enterprise portal, Cloudflare Tunnel ingress, distributed webhook automations, automated client SLA pipeline. | Operational backbone powering digital defense and automation for **1,000+ businesses**. |
-| **Enterprise Notification Engine** | WhatsApp Business API & transactional SMS gateway pipelines, event-driven webhooks, automated customer reminder systems. | High-deliverability notification infra eliminating manual follow-up labor for client ecosystems. |
-| **One Sixty Five By One** | Multi-role restaurant operating system, real-time WebSockets synchronization, 5 dedicated live-role dashboards with zero cross-talk. | Reduced order latency to **< 50ms** across Kitchen, Service, POS, Cashier, and Executive management. |
-| **Financial Ledger & Wallet Core** | Event-sourced transaction log, cryptographically audited state transitions, strict PostgreSQL isolation, defense-in-depth API boundaries. | Zero data anomaly threshold across high-volume reconciliation cycles and balance states. |
-| **Sovereign AI Engine (COROLAB)** | Background Android event hooks, native hardware key interception, zero-cloud local LLM runtime, active dopamine loop interdiction. | **100% sovereign data privacy**; eliminates edge latency and eradicates infinite-scroll loops. |
-
----
-
-### // 05. Real-Time Telemetry & Systems Activity
+### // Telemetry & Activity Metrics
 
 <p align="center">
   <picture>
@@ -167,9 +99,70 @@ flowchart TD
 
 ---
 
-### // 06. Executive Directive
+<details>
+<summary><b>⚡ Deep-Tech Architecture & Enterprise Systems Portfolio (Click to Expand)</b></summary>
+<br/>
 
-> *"Resilient infrastructure is not an afterthought; it is the fundamental physics of the digital world. We engineer autonomous systems so human capital can shift from repetitive maintenance to unconstrained frontier exploration."*
+#### 1. Enterprise Ecosystem Architecture
+
+| Dimension | COROLAB (Global Flagship Venture) | DigifixBD (Operating Infrastructure) |
+| :--- | :--- | :--- |
+| **Role & Mandate** | Deep-Tech R&D & Sovereign Innovation Lab | Founder & CEO / Operational Backbone |
+| **Core Focus** | Edge Compute, Sovereign Local AI & Autonomous Systems | Enterprise Modernization, Defense & Cloud Infrastructure |
+| **Execution Domain** | Offline LLM runtimes, OS-level hooks, zero-cloud agents | Scaled digital infrastructure & autonomous workflow automation |
+| **Impact Metric** | Autonomous IP generation & next-gen deep tech | 1,000+ client systems deployed, hardened, and maintained |
+
+#### 2. System Architecture & Capability Hierarchy
+
+```text
+===================================================================================================
+                               SYSTEM ARCHITECTURE & CAPABILITY HIERARCHY
+===================================================================================================
+[ LAYER 01 : APPLICATION SECURITY & NETWORK FORENSICS ]
+  ├── Web Application Pentesting : Burp Suite Pro, Manual SQLi, Logic Bypass Audits
+  ├── Network Inspection        : Wireshark Deep Packet Forensics, MITM Defense, TLS 1.3 Hardening
+  └── Perimeter Defense         : HTTP 429 Adaptive Rate Limiting, OWASP Top 10 Active Mitigation
+
+[ LAYER 02 : LOW-LEVEL OS INTERNALS & CROSS-PLATFORM CONTROL ]
+  ├── Kernel & Distros          : Arch Linux, Kali Linux, Parrot OS, Ubuntu LTS, Custom Linux Daemons
+  ├── Android Low-Level Runtime : Bootloader Unlock, Bootloop Debug, Zygisk/Magisk Root, Vendor Partitions
+  └── Hardware Platform Control : macOS, iOS, Windows, Android System Architectures, Non-Standard Dual-Boot
+
+[ LAYER 03 : COMPUTER ARCHITECTURE & HARDWARE RUNTIME ]
+  ├── Execution Pipeline        : BIOS/UEFI POST Sequence Analysis, Low-Level Firmware Hooks
+  ├── Bus Hierarchy             : RAM / ROM Data Bus Timing, Bus Interconnect Constraints
+  └── Compute Engines           : GPU Parallel Mechanics, CUDA Kernels, Local LLM Quantization
+
+[ LAYER 04 : ZERO-TRUST CLOUD & DISTRIBUTED INFRASTRUCTURE ]
+  ├── Cloudflare Fabric         : Zero-Trust Tunnels (No Exposed IP/Ports), Edge Workers, R2 Buckets
+  ├── Ingress & Routing         : Reverse Proxy Optimization, Edge Caching, Dynamic Load Termination
+  └── Runtime Orchestration     : Microservices Decoupling, WebSockets, Linux systemd Watchdogs
+
+[ LAYER 05 : EMBEDDED SYSTEMS & HARDWARE AUTOMATION ]
+  ├── Silicon Targets           : ESP32, ESP8266, ARM Cortex (Raspberry Pi), ATmega (Arduino)
+  └── Physical Automation       : High-Voltage Relay Systems, Sensor Mesh, Edge-to-Cloud Relays
+
+[ LAYER 06 : AUTONOMOUS ENTERPRISE & COMMUNICATION SYSTEMS ]
+  ├── Core Stack                : TypeScript, React, Node.js, Supabase (PostgreSQL), Tailwind CSS
+  ├── Workflow Orchestration    : Self-Hosted n8n Clusters, Event-Driven Webhooks, Distributed Workers
+  ├── Notification Automation   : WhatsApp Business API, Transactional SMS Gateways, Automated Customer Reminders
+  └── Enterprise Architectures  : Multi-Role Real-Time Portals (e.g. One Sixty Five By One 5-Panel OS)
+===================================================================================================
+```
+
+#### 3. Production Implementations
+
+| System / Platform | Architecture Highlights | Scale / Impact |
+| :--- | :--- | :--- |
+| **DigifixBD Operating Core** | Zero-Trust enterprise portal, Cloudflare Tunnel ingress, distributed webhook automations, automated client SLA pipeline. | Operational backbone powering digital defense and automation for **1,000+ businesses**. |
+| **Enterprise Notification Engine** | WhatsApp Business API & transactional SMS gateway pipelines, event-driven webhooks, automated customer reminder systems. | High-deliverability notification infra eliminating manual follow-up labor for client ecosystems. |
+| **One Sixty Five By One** | Multi-role restaurant operating system, real-time WebSockets synchronization, 5 dedicated live-role dashboards with zero cross-talk. | Reduced order latency to **< 50ms** across Kitchen, Service, POS, Cashier, and Executive management. |
+| **Financial Ledger & Wallet Core** | Event-sourced transaction log, cryptographically audited state transitions, strict PostgreSQL isolation, defense-in-depth API boundaries. | Zero data anomaly threshold across high-volume reconciliation cycles and balance states. |
+| **Sovereign AI Engine (COROLAB)** | Background Android event hooks, native hardware key interception, zero-cloud local LLM runtime, active dopamine loop interdiction. | **100% sovereign data privacy**; eliminates edge latency and eradicates infinite-scroll loops. |
+
+</details>
+
+---
 
 <p align="center">
   <a href="mailto:tanjim@digifixbd.com">
