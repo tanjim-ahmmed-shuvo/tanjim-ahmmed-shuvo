@@ -25,3 +25,36 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tanjim-ahmmed-shuvo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjim-ahmmed-shuvo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
+<div align="center">
+
+# Hi, I'm Tanjim Ahmmed Shuvo 👋
+### Founder & CEO at [DigifixBD](https://digifixbd.com) | Full-Stack Developer & AI Automation Architect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanjim.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjim@digifixbd.com)
+
+<p align="center">
+  <em>Engineering high-performance web applications, scalable business workflows, and robust security infrastructure.</em>
+</p>
+
+</div>
+
+---
+
+### ⚡ Executive Metrics
+
+| 👥 Total Clients Served | 🚀 Live Scaled Builds | 🤖 Focus Area | 🛡️ Security Operations |
+| :---: | :---: | :---: | :---: |
+| **1,000+** | **7+ Systems** | **Full-Stack & AI SaaS** | **Audits & Brand Defense** |
+
+---
+
+### 🛠️ Core Tech Stack & Architecture
+
+```text
+Frontend    :: React.js, Next.js, TypeScript, Tailwind CSS
+Backend     :: Node.js, Python (Django, Flask), RESTful APIs
+Database    :: Supabase (PostgreSQL), Cloudflare Workers, Edge Computing
+Automation  :: n8n, OpenAI API, Make.com, Custom LLM Pipelines
+CMS/Rapid   :: WordPress, Headless Architecture, Custom Themes
